@@ -1,4 +1,9 @@
-﻿//#include <conio.h>   // 引入控制台输入输出库，用于读取与显示文本(Windows,MS-DOS)
+/*
+	  MinesweepGame.c
+     Copyright (C) 2024  Echo6-42
+     	 USE GPLv3 License
+*/
+//#include <conio.h>   // 引入控制台输入输出库，用于读取与显示文本(Windows,MS-DOS)
 #include <stdio.h> // 引入标准输入输出库，用于打印和读取数据(LINUX,UNIX)
 #include <stdlib.h>  // 引入标准库，用于动态内存分配和随机数生成  
 #include <time.h>    // 引入时间库，用于处理时间和随机数种子  
